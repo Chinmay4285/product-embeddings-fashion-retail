@@ -363,7 +363,7 @@ def demonstrate_classical_embeddings():
     
     # Method recommendations
     print(f"\n" + "="*40)
-    print("RECOMMENDATIONS FOR GAP'S USE CASE")
+    print("RECOMMENDATIONS FOR FashionCore'S USE CASE")
     print("="*40)
     
     print(f"\n1. PCA:")

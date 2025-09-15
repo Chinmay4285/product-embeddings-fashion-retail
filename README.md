@@ -1,5 +1,5 @@
 
-# GAP Product Embeddings - Production Files
+# FashionCore Product Embeddings - Production Files
 
 ## Files Created:
 - classical_pca_embeddings.npy: Classical PCA embeddings ((1000, 32))

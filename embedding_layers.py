@@ -412,7 +412,7 @@ def demonstrate_embedding_layers():
     print("   - Handles new categories better than one-hot encoding")
     print("   - More memory efficient than one-hot for large vocabularies")
     
-    print("\n2. Use Cases for GAP:")
+    print("\n2. Use Cases for FashionCore:")
     print("   - Product similarity search using learned embeddings")
     print("   - Recommendation systems based on product relationships")
     print("   - Market basket analysis with product embeddings")

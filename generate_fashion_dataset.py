@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 def generate_fashion_dataset(n_products=2000, seed=42):
     """
-    Generate a realistic fashion retail dataset similar to GAP's catalog structure.
+    Generate a realistic fashion retail dataset similar to FashionCore's catalog structure.
     
     Parameters:
     - n_products: Number of unique SKUs to generate
@@ -100,7 +100,7 @@ def generate_fashion_dataset(n_products=2000, seed=42):
             inventory = random.randint(100, 500)
         
         # Generate SKU
-        sku = f"GAP{sku_counter}"
+        sku = f"FashionCore{sku_counter}"
         sku_counter += 1
         
         # Create product name

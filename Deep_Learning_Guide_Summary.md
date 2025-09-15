@@ -201,7 +201,7 @@ Do you need to predict something specific?
 2. **Autoencoders:** Compress product features to core attributes
 3. **Neural Networks:** Predict purchase probability
 
-### Results from Our GAP Project:
+### Results from Our FashionCore Project:
 - **Classical Methods (PCA, t-SNE):** Fast baseline, good visualization
 - **Embedding Layers:** Learned color similarities (Beige ≈ Sage)
 - **Autoencoders:** 190 features → 32 dimensions with 96% accuracy

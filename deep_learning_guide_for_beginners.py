@@ -743,7 +743,7 @@ class DeepLearningGuide:
         
         COMBINING METHODS (RECOMMENDED):
         
-        HYBRID APPROACH (What we did for GAP):
+        HYBRID APPROACH (What we did for FashionCore):
         1. Start with PCA for quick insights
         2. Use Embedding Layers for categorical features
         3. Use Autoencoders for complex patterns
